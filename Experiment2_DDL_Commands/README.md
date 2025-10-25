@@ -1,6 +1,7 @@
 # Experiment 2: DDL Commands
-NAME : NABISHA A
-REGISTER NO : 212223060177
+ NAME : NABISHA A
+ 
+ REGISTER NO : 212223060177
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
